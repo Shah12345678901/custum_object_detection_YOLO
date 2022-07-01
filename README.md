@@ -1,4 +1,4 @@
-# custum_object_detection_YOLO
+# custom_object_detection_YOLO
 
 Multiprocessing is used to test two videos simultaneously and displaying the FPS in the frames.
 
